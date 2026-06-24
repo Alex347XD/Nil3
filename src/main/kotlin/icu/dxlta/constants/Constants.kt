@@ -15,7 +15,7 @@ object Constants {
 
     /** Override your own dGUI bundle URL here, if not, Nil will use the official dGUI URL. (controlled by DxltaMath admins)
      * CAUTION: dGUIs have complete access. Only use dGUIs that you trust. */
-    const val GUI_LINK : String = "https://raw.githubusercontent.com/DxltaMath/dGUI/master/dist/bundle.js"
+    const val GUI_LINK : String = "https://raw.githubusercontent.com/Alex347XD/dGUI/refs/heads/master/dist/bundle.js"
 
 
     /** Set this to true if you would like to unminify icu.dxlta.main.js
